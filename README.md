@@ -25,8 +25,8 @@ Xperia
 ZUI	
 ZenUI
 ### 10 Q： ###
-> Generic
-MIUI	
+ROM_URL:http://bigota.d.miui.com/V12.0.3.0.QFKCNXM/miui_RAPHAEL_V12.0.3.0.QFKCNXM_7aa9b0f8c8_10.0.zip
+ROM_NAME:MIUI
 OxygenOS
 Pixel
 ### 11 R： ##
